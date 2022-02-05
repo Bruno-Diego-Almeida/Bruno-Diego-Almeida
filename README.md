@@ -25,10 +25,6 @@
         <a href="https://www.facebook.com/people/Bruno-Diego/100004888954560/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
     <a href = "mailto:brunoda8894@@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     
-  </div>
-  <img align="right" alt="Bruno-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   
-   
-</div>
   
   
